@@ -1,0 +1,39 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.venn{
+    background-color: black;
+    height: 70vh;
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.first{
+    height: 30vh;
+    width: 30vh;
+    background-color: red;
+    margin-left: 490px;
+    border: blue;
+    mix-blend-mode: screen;
+    border-radius: 100%;
+    position: relative;
+}
+.second{
+    height: 30vh;
+    width: 30vh;
+    background-color: green;
+    margin-top: -60px;
+    margin-left: 540px;
+    mix-blend-mode: screen;
+    border-radius: 100%;
+}
+.third{
+    height: 30vh;
+    width: 30vh;
+    background-color: blue;
+    color: blue;
+    margin-top: -185px;
+    margin-left: 440px;
+    mix-blend-mode: screen;
+    border-radius: 100%;
+}
