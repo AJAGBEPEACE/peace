@@ -1,0 +1,24 @@
+#boxx {
+    border: 70px;
+    height: 70vh;
+    width: 80%;
+    margin: auto;
+    /* padding: 100px; */
+    background-color: rgb(194, 181, 181);
+    /* opacity: 10%; */
+    /* background-image: conic-gradient(red,green), url('zoombie try.gif'); */
+    /* background-image: radial-gradient(red,green), url('zoombie try.gif'); */
+    background-image: linear-gradient(60deg, rgba(225, 0,0, 50%)20% , green 80%), url('zoombie try.gif');
+    /* background-image: linear-gradient(60deg, red 80%,green 30%,blue,yellow,aqua), url('zoombie try.gif'); */
+    /* background-image: linear-gradient(60deg, red 80%,green 30%,blue,yellow,aqua), url('zoombie try.gif'); */
+    /* background-image: linear-gradient(to right, red,green,blue,yellow,aqua), url('zoombie try.gif'); */
+    /* background-image: linear-gradient(red,green,blue,yellow,aqua), url('zoombie try.gif'); */
+    /* background-repeat: repeat; */
+    /* background-repeat: no-repeat; */
+    /* background-repeat: repeat-x; */
+    /* background-size: 30pc; */
+    /* background-size: contain; */
+    /* background-size: 30% 20% ; */
+    background-size: cover;
+    background-attachment: fixed;
+}
