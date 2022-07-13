@@ -1,0 +1,17 @@
+#print(self.findPrimes(*))
+test = False
+if (N1 >= N2) and (N1 >= N3):
+    print("N1 biggest : ", N1)
+    #using m = cube_root(Ci)
+    m = math.pow(N1, 1/3)
+else:
+    If (N2>=N1) and (N2 >= N3):
+        print("N2 is biggest : ", N2)
+        #using m = cube_root(Ci)
+        m = math.pow(N2, 1/3)
+    else:
+          print("N3 biggest :", N3)
+          #using m = cube_root(Ci)
+          m = math.pow(N3, 1/3)
+#while( test== False):
+#    x = random. randint (pow(2,256)-1000000)
